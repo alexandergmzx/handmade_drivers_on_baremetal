@@ -31,11 +31,13 @@ INCLUDES = main.h \
 # PRJ_NAME.elf 
 PRJ_NAME = final
 
-CC 	= arm-none-eabi-gcc # Compiler
-LD 	= arm-none-eabi-ld # Loader
-SIZE 	= arm-none-eabi-size	
+# Compiler
+# Loader
+CC 	= arm-none-eabi-gcc
+LD 	= arm-none-eabi-ld
+SIZE 	= arm-none-eabi-size
 OBJDMP	= arm-none-eabi-objdump
-OBJCOPY	= arm-none-eabi-objcopy # for Hex
+OBJCOPY	= arm-none-eabi-objcopy
 
 # General GCC compiler flags for both platforms
 CFLAGS = -Wall \
@@ -71,7 +73,7 @@ LINKER_FILE = stm32_ls.ld
 
 LDFLAGS = --specs=$(SPECS) -T$(LINKER_FILE) -Wl,-Map=$(PRJ_NAME).map
 
-#LDFLAGS_SH = --specs=rdimon.specs -T$(LINKER_FILE) -Wl,-Map=$(PRJ_NAME).map
+LDFLAGS_SH = --specs=rdimon.specs -T$(LINKER_FILE) -Wl,-Map=$(PRJ_NAME).map
 
 
 all: $(PRJ_NAME).elf
@@ -98,9 +100,9 @@ PREP = $(SRCS:.c=.i)	# Preprocessed files
 	$(CC) -c $< $(CFLAGS) -o $@
 
 $(PRJ_NAME).elf: $(OBJS)
-	$(CC) $^ $(CFLAGS) $(CPPFLAGS) $(LDFLAGS) -o $@ # instead of $(OBJS), uses $^
+	$(CC) $^ $(CFLAGS) $(CPPFLAGS) $(LDFLAGS) -o $@ 
 	$(SIZE) $< $@
-	
+# instead of $(OBJS), uses $^	
 $(PRJ_NAME)_sh.elf: main.o led.o stm32_startup.o
 	$(CC) $(CFLAGS) $(CPPFLAGS) $(LDFLAGS_SH) -o $@ $^ 
 	$(SIZE) $< $@

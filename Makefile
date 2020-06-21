@@ -23,11 +23,10 @@
 SRCDIR	= src
 SRCS	= $(wildcard $(SRCDIR)/*.c)
 
-SRCS +=	stm32_startup.c \
-	syscalls.c 
+SRCS +=	$(wildcard ./*.c) 
 
 INCLDIR = inc
-INCLUDES = $(wildcard $(INCLDIR)/*.c)
+INCLUDES = $(wildcard $(INCLDIR)/*.h)
 
 # PRJ_NAME.elf 
 PRJ_NAME = final

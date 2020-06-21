@@ -1,9 +1,9 @@
 ##############################################################################
 # Makefile for baremetal compiling
 #
-# Use: make [TARGET]
+# Use: make [target]
 #
-# Build Targets:
+# Build targets:
 #      <FILE>.o - Builds a <FILE>.o object file
 #      <FILE>.i - Builds a <FILE>.i preprocessed file
 #      <FILE>.asm - Dumps <FILE>.asm assembly file
@@ -28,15 +28,14 @@ SRCS = main.c \
 INCLUDES = main.h \
 	led.h
 
-# Target.elf 
-TARGET = final
+# PRJ_NAME.elf 
+PRJ_NAME = final
 
-CC = arm-none-eabi-gcc # Compiler
-LD = arm-none-eabi-ld # Loader
-SIZE = arm-none-eabi-size	
-OBJDMP = arm-none-eabi-objdump
-
-MACH=cortex-m4
+CC 	= arm-none-eabi-gcc # Compiler
+LD 	= arm-none-eabi-ld # Loader
+SIZE 	= arm-none-eabi-size	
+OBJDMP	= arm-none-eabi-objdump
+OBJCOPY	= arm-none-eabi-objcopy # for Hex
 
 # General GCC compiler flags for both platforms
 CFLAGS = -Wall \
@@ -45,6 +44,12 @@ CFLAGS = -Wall \
 	-std=gnu11
 
 CPPFLAGS = -MMD -MP $(INCLUDES)
+
+# Programmer flags
+PROGRAMMER = openocd
+PGFLAGS    = -f board/st_nucleo_f4.cfg -c "program $(PRJ_NAME).elf verify reset" -c shutdown
+
+#openocd.cfg 
 
 # Architectures Specific Flags
 CPU = cortex-m4 		
@@ -64,14 +69,14 @@ LINKER_FILE = stm32_ls.ld
 
 # This also generates the Map file for the full build
 
-LDFLAGS = --specs=$(SPECS) -T$(LINKER_FILE) -Wl,-Map=$(TARGET).map
+LDFLAGS = --specs=$(SPECS) -T$(LINKER_FILE) -Wl,-Map=$(PRJ_NAME).map
 
-#LDFLAGS_SH = --specs=rdimon.specs -T$(LINKER_FILE) -Wl,-Map=$(TARGET).map
+#LDFLAGS_SH = --specs=rdimon.specs -T$(LINKER_FILE) -Wl,-Map=$(PRJ_NAME).map
 
 
-all: $(TARGET).elf
-
-#semi: main.o led.o stm32_startup.o $(TARGET)_sh.elf
+all: $(PRJ_NAME).elf
+semi: $(PRJ_NAME)_sh.elf 
+#semi stands for Semi Hosting debugger
 
 # Pattern Matching - Associate source files with:
 OBJS = $(SRCS:.c=.o)	# Object files
@@ -92,21 +97,26 @@ PREP = $(SRCS:.c=.i)	# Preprocessed files
 %.o: %.c
 	$(CC) -c $< $(CFLAGS) -o $@
 
-$(TARGET).elf: $(OBJS)
+$(PRJ_NAME).elf: $(OBJS)
 	$(CC) $^ $(CFLAGS) $(CPPFLAGS) $(LDFLAGS) -o $@ # instead of $(OBJS), uses $^
 	$(SIZE) $< $@
 	
-#$(TARGET)_sh.elf: main.o led.o stm32_startup.o
-#	$(CC) $(CFLAGS) $(CPPFLAGS) $(LDFLAGS_SH) -o $@ $^ 
-#	$(SIZE) $< $@
+$(PRJ_NAME)_sh.elf: main.o led.o stm32_startup.o
+	$(CC) $(CFLAGS) $(CPPFLAGS) $(LDFLAGS_SH) -o $@ $^ 
+	$(SIZE) $< $@
 
-$(TARGET).asm: $(TARGET).elf
-	$(OBJDMP) --disassemble-all $(TARGET).elf > $(TARGET).asm
+$(PRJ_NAME).asm: $(PRJ_NAME).elf
+	$(OBJDMP) --disassemble-all $(PRJ_NAME).elf > $(PRJ_NAME).asm
+
+flash: $(PRJ_NAME).elf
+	$(PROGRAMMER) $(PGFLAGS) 
+
+hex: $(PRJ_NAME).elf
+	$(OBJCOPY) -O ihex $(PRJ_NAME).elf $(PRJ_NAME).hex
+
+bin: $(PRJ_NAME).elf
+	$(OBJCOPY) -O binary $(PRJ_NAME).elf $(PRJ_NAME).bin
 
 clean:
-	rm -f $(OBJS) $(DEPS) $(ASMS) $(PREP) $(TARGET).elf $(TARGET)_sh.elf $(TARGET).d $(TARGET).map $(TARGET).asm
-
-load:
-	openocd -f board/stm32f4discovery.cfg 
-
+	rm -f $(OBJS) $(DEPS) $(ASMS) $(PREP) $(PRJ_NAME).elf $(PRJ_NAME)_sh.elf $(PRJ_NAME).d $(PRJ_NAME).map $(PRJ_NAME).asm
 

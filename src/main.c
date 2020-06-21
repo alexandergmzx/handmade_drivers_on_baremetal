@@ -12,8 +12,8 @@
 #endif
 
 #include<stdio.h>
-#include"main.h"
-#include "led.h"
+#include"../inc/main.h"
+#include "../inc/led.h"
 
 void task1_handler(void); //This is task1
 void task2_handler(void); //this is task2

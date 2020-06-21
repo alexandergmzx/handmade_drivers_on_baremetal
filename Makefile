@@ -20,13 +20,14 @@
 # @date 	2020-Jun-12
 #
 ##############################################################################
-SRCS = main.c \
-	led.c \
-	stm32_startup.c \
+SRCDIR	= src
+SRCS	= $(wildcard $(SRCDIR)/*.c)
+
+SRCS +=	stm32_startup.c \
 	syscalls.c 
 
-INCLUDES = main.h \
-	led.h
+INCLDIR = inc
+INCLUDES = $(wildcard $(INCLDIR)/*.c)
 
 # PRJ_NAME.elf 
 PRJ_NAME = final
@@ -45,7 +46,7 @@ CFLAGS = -Wall \
 	-O0 \
 	-std=gnu11
 
-CPPFLAGS = -MMD -MP $(INCLUDES)
+CPPFLAGS = -MMD -MP -I $(INCLUDES)
 
 # Programmer flags
 PROGRAMMER = openocd
@@ -75,6 +76,7 @@ LDFLAGS = --specs=$(SPECS) -T$(LINKER_FILE) -Wl,-Map=$(PRJ_NAME).map
 
 LDFLAGS_SH = --specs=rdimon.specs -T$(LINKER_FILE) -Wl,-Map=$(PRJ_NAME).map
 
+.PHONY: all clean flash burn hex bin
 
 all: $(PRJ_NAME).elf
 semi: $(PRJ_NAME)_sh.elf 

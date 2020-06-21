@@ -1,0 +1,1176 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/crt0.o (atexit)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-errno.o)
+                              syscalls.o (__errno)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-exit.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/crt0.o (exit)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fini.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/crt0.o (__libc_fini_array)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-impure.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-exit.o) (_global_impure_ptr)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-init.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/crt0.o (__libc_init_array)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memset.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/crt0.o (memset)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-puts.o)
+                              src/main.o (puts)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-strlen.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-puts.o) (strlen)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-atexit.o) (__register_exitproc)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__call_atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-exit.o) (__call_exitprocs)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-puts.o) (__sinit)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fvwrite.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-puts.o) (__sfvwrite_r)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fwalk.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o) (_fwalk)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mallocr.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o) (_malloc_r)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memchr.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fvwrite.o) (memchr)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memcpy.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fvwrite.o) (memcpy)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memmove.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fvwrite.o) (memmove)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mlock.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mallocr.o) (__malloc_lock)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reallocr.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fvwrite.o) (_realloc_r)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-sbrkr.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mallocr.o) (_sbrk_r)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-stdio.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o) (__sread)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-writer.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-stdio.o) (_write_r)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-wsetup.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fvwrite.o) (__swsetup_r)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-closer.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-stdio.o) (_close_r)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fclose.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o) (_fclose_r)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fflush.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fclose.o) (__sflush_r)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-freer.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fvwrite.o) (_free_r)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-lseekr.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-stdio.o) (_lseek_r)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-makebuf.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-wsetup.o) (__smakebuf_r)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-readr.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-stdio.o) (_read_r)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reent.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-sbrkr.o) (errno)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fstatr.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-makebuf.o) (_fstat_r)
+/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-isattyr.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-makebuf.o) (_isatty_r)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reent.o)
+user_tasks          0x50              src/main.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000008000000 0x0000000000100000 xr
+SRAM             0x0000000020000000 0x0000000000020000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+LOAD /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+LOAD /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/crt0.o
+LOAD src/main.o
+LOAD src/led.o
+LOAD stm32_startup.o
+LOAD syscalls.o
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a
+LOAD /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libc.a
+END GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+LOAD /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+
+.text           0x0000000008000000     0x2a10
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x188 stm32_startup.o
+                0x0000000008000000                vectors
+ *(.text)
+ .text          0x0000000008000188        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+ .text          0x0000000008000188       0xa4 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ .text          0x000000000800022c       0x68 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/crt0.o
+                0x000000000800022c                _mainCRTStartup
+                0x000000000800022c                _start
+ .text          0x0000000008000294      0x50c src/main.o
+                0x0000000008000294                main
+                0x00000000080002d0                idle_task
+                0x00000000080002d8                task1_handler
+                0x0000000008000304                task2_handler
+                0x0000000008000330                task3_handler
+                0x0000000008000358                task4_handler
+                0x0000000008000380                init_systick_timer
+                0x00000000080003e8                init_scheduler_stack
+                0x00000000080003f0                init_tasks_stack
+                0x0000000008000508                enable_processor_faults
+                0x0000000008000544                get_psp_value
+                0x0000000008000568                save_psp_value
+                0x0000000008000590                update_next_task
+                0x0000000008000614                switch_sp_to_psp
+                0x000000000800062c                schedule
+                0x0000000008000650                task_delay
+                0x00000000080006ac                PendSV_Handler
+                0x00000000080006d0                update_global_tick_count
+                0x00000000080006ec                unblock_tasks
+                0x0000000008000748                SysTick_Handler
+                0x0000000008000770                HardFault_Handler
+                0x0000000008000780                MemManage_Handler
+                0x0000000008000790                BusFault_Handler
+ .text          0x00000000080007a0       0xf8 src/led.o
+                0x00000000080007a0                delay
+                0x00000000080007c8                led_init_all
+                0x0000000008000838                led_on
+                0x0000000008000868                led_off
+ .text          0x0000000008000898       0x90 stm32_startup.o
+                0x0000000008000898                RTC_Alarm_IRQHandler
+                0x0000000008000898                HASH_RNG_IRQHandler
+                0x0000000008000898                EXTI2_IRQHandler
+                0x0000000008000898                TIM8_CC_IRQHandler
+                0x0000000008000898                DebugMon_Handler
+                0x0000000008000898                TIM1_CC_IRQHandler
+                0x0000000008000898                DMA2_Stream5_IRQHandler
+                0x0000000008000898                DMA1_Stream5_IRQHandler
+                0x0000000008000898                PVD_IRQHandler
+                0x0000000008000898                SDIO_IRQHandler
+                0x0000000008000898                TAMP_STAMP_IRQHandler
+                0x0000000008000898                NMI_Handler
+                0x0000000008000898                CAN2_RX1_IRQHandler
+                0x0000000008000898                EXTI3_IRQHandler
+                0x0000000008000898                TIM8_TRG_COM_TIM14_IRQHandler
+                0x0000000008000898                TIM1_UP_TIM10_IRQHandler
+                0x0000000008000898                TIM8_UP_TIM13_IRQHandler
+                0x0000000008000898                I2C3_ER_IRQHandler
+                0x0000000008000898                EXTI0_IRQHandler
+                0x0000000008000898                I2C2_EV_IRQHandler
+                0x0000000008000898                DMA1_Stream2_IRQHandler
+                0x0000000008000898                CAN1_RX0_IRQHandler
+                0x0000000008000898                FPU_IRQHandler
+                0x0000000008000898                OTG_HS_WKUP_IRQHandler
+                0x0000000008000898                UsageFault_Handler
+                0x0000000008000898                CAN2_SCE_IRQHandler
+                0x0000000008000898                DMA2_Stream2_IRQHandler
+                0x0000000008000898                SPI1_IRQHandler
+                0x0000000008000898                TIM6_DAC_IRQHandler
+                0x0000000008000898                TIM1_BRK_TIM9_IRQHandler
+                0x0000000008000898                DCMI_IRQHandler
+                0x0000000008000898                CAN2_RX0_IRQHandler
+                0x0000000008000898                DMA2_Stream3_IRQHandler
+                0x0000000008000898                USART6_IRQHandler
+                0x0000000008000898                USART3_IRQHandler
+                0x0000000008000898                CRYP_IRQHandler
+                0x0000000008000898                CAN1_RX1_IRQHandler
+                0x0000000008000898                UART5_IRQHandler
+                0x0000000008000898                DMA2_Stream0_IRQHandler
+                0x0000000008000898                TIM4_IRQHandler
+                0x0000000008000898                I2C1_EV_IRQHandler
+                0x0000000008000898                DMA1_Stream6_IRQHandler
+                0x0000000008000898                DMA1_Stream1_IRQHandler
+                0x0000000008000898                UART4_IRQHandler
+                0x0000000008000898                TIM3_IRQHandler
+                0x0000000008000898                RCC_IRQHandler
+                0x0000000008000898                TIM8_BRK_TIM12_IRQHandler
+                0x0000000008000898                Default_Handler
+                0x0000000008000898                EXTI15_10_IRQHandler
+                0x0000000008000898                ADC_IRQHandler
+                0x0000000008000898                DMA1_Stream7_IRQHandler
+                0x0000000008000898                TIM7_IRQHandler
+                0x0000000008000898                CAN2_TX_IRQHandler
+                0x0000000008000898                TIM5_IRQHandler
+                0x0000000008000898                DMA2_Stream7_IRQHandler
+                0x0000000008000898                I2C3_EV_IRQHandler
+                0x0000000008000898                EXTI9_5_IRQHandler
+                0x0000000008000898                RTC_WKUP_IRQHandler
+                0x0000000008000898                ETH_WKUP_IRQHandler
+                0x0000000008000898                SPI2_IRQHandler
+                0x0000000008000898                OTG_HS_EP1_IN_IRQHandler
+                0x0000000008000898                DMA1_Stream0_IRQHandler
+                0x0000000008000898                CAN1_TX_IRQHandler
+                0x0000000008000898                SVC_Handler
+                0x0000000008000898                EXTI4_IRQHandler
+                0x0000000008000898                FSMC_IRQHandler
+                0x0000000008000898                ETH_IRQHandler
+                0x0000000008000898                OTG_HS_EP1_OUT_IRQHandler
+                0x0000000008000898                WWDG_IRQHandler
+                0x0000000008000898                TIM2_IRQHandler
+                0x0000000008000898                OTG_FS_WKUP_IRQHandler
+                0x0000000008000898                TIM1_TRG_COM_TIM11_IRQHandler
+                0x0000000008000898                OTG_HS_IRQHandler
+                0x0000000008000898                EXTI1_IRQHandler
+                0x0000000008000898                USART2_IRQHandler
+                0x0000000008000898                I2C2_ER_IRQHandler
+                0x0000000008000898                DMA2_Stream1_IRQHandler
+                0x0000000008000898                CAN1_SCE_IRQHandler
+                0x0000000008000898                DMA2_Stream4_IRQHandler
+                0x0000000008000898                USART1_IRQHandler
+                0x0000000008000898                OTG_FS_IRQHandler
+                0x0000000008000898                SPI3_IRQHandler
+                0x0000000008000898                DMA1_Stream4_IRQHandler
+                0x0000000008000898                I2C1_ER_IRQHandler
+                0x0000000008000898                DMA2_Stream6_IRQHandler
+                0x0000000008000898                DMA1_Stream3_IRQHandler
+                0x00000000080008a0                Reset_Handler
+ .text          0x0000000008000928      0x278 syscalls.o
+                0x0000000008000928                initialise_monitor_handles
+                0x0000000008000934                _getpid
+                0x0000000008000944                _kill
+                0x0000000008000964                _exit
+                0x0000000008000978                _read
+                0x00000000080009b4                _write
+                0x00000000080009ec                _close
+                0x0000000008000a04                _fstat
+                0x0000000008000a24                _isatty
+                0x0000000008000a3c                _lseek
+                0x0000000008000a58                _open
+                0x0000000008000a74                _wait
+                0x0000000008000a94                _unlink
+                0x0000000008000ab4                _times
+                0x0000000008000acc                _stat
+                0x0000000008000aec                _link
+                0x0000000008000b0c                _fork
+                0x0000000008000b24                _execve
+                0x0000000008000b48                _sbrk
+ .text          0x0000000008000ba0        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-atexit.o)
+ .text          0x0000000008000ba0        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-errno.o)
+ .text          0x0000000008000ba0        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-exit.o)
+ .text          0x0000000008000ba0        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fini.o)
+ .text          0x0000000008000ba0        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-impure.o)
+ .text          0x0000000008000ba0        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-init.o)
+ .text          0x0000000008000ba0        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memset.o)
+ .text          0x0000000008000ba0        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-puts.o)
+ .text          0x0000000008000ba0        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-strlen.o)
+ .text          0x0000000008000ba0        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__atexit.o)
+ .text          0x0000000008000ba0        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__call_atexit.o)
+ .text          0x0000000008000ba0        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+ .text          0x0000000008000ba0        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fvwrite.o)
+ .text          0x0000000008000ba0        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fwalk.o)
+ .text          0x0000000008000ba0        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mallocr.o)
+ .text          0x0000000008000ba0        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memchr.o)
+ .text          0x0000000008000ba0      0x134 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memcpy.o)
+                0x0000000008000ba0                memcpy
+ .text          0x0000000008000cd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memmove.o)
+ .text          0x0000000008000cd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mlock.o)
+ .text          0x0000000008000cd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reallocr.o)
+ .text          0x0000000008000cd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-sbrkr.o)
+ .text          0x0000000008000cd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-stdio.o)
+ .text          0x0000000008000cd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-writer.o)
+ .text          0x0000000008000cd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-wsetup.o)
+ .text          0x0000000008000cd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-closer.o)
+ .text          0x0000000008000cd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fclose.o)
+ .text          0x0000000008000cd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fflush.o)
+ .text          0x0000000008000cd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-freer.o)
+ .text          0x0000000008000cd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-lseekr.o)
+ .text          0x0000000008000cd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-makebuf.o)
+ .text          0x0000000008000cd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-readr.o)
+ .text          0x0000000008000cd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reent.o)
+ .text          0x0000000008000cd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fstatr.o)
+ .text          0x0000000008000cd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-isattyr.o)
+ .text          0x0000000008000cd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .text          0x0000000008000cd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+ *(.text.*)
+ .text.atexit   0x0000000008000cd4        0xc /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-atexit.o)
+                0x0000000008000cd4                atexit
+ .text.__errno  0x0000000008000ce0        0xc /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-errno.o)
+                0x0000000008000ce0                __errno
+ .text.exit     0x0000000008000cec       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-exit.o)
+                0x0000000008000cec                exit
+ .text.__libc_fini_array
+                0x0000000008000d0c       0x2c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fini.o)
+                0x0000000008000d0c                __libc_fini_array
+ .text.__libc_init_array
+                0x0000000008000d38       0x50 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-init.o)
+                0x0000000008000d38                __libc_init_array
+ .text.memset   0x0000000008000d88       0x9c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memset.o)
+                0x0000000008000d88                memset
+ .text._puts_r  0x0000000008000e24       0x64 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-puts.o)
+                0x0000000008000e24                _puts_r
+ .text.puts     0x0000000008000e88       0x10 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-puts.o)
+                0x0000000008000e88                puts
+ .text.strlen   0x0000000008000e98       0x5c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-strlen.o)
+                0x0000000008000e98                strlen
+ .text.__register_exitproc
+                0x0000000008000ef4       0xa4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__atexit.o)
+                0x0000000008000ef4                __register_exitproc
+ .text.startup.register_fini
+                0x0000000008000f98       0x14 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000008000fac       0xd4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__call_atexit.o)
+                0x0000000008000fac                __call_exitprocs
+ .text.__fp_lock
+                0x0000000008001080        0x4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x0000000008001084        0x4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x0000000008001088        0xc /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+                0x0000000008001088                _cleanup_r
+ .text.__sinit.part.1
+                0x0000000008001094       0xf0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+ .text.__sfmoreglue
+                0x0000000008001184       0x30 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+                0x0000000008001184                __sfmoreglue
+ .text.__sfp    0x00000000080011b4       0x88 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+                0x00000000080011b4                __sfp
+ .text._cleanup
+                0x000000000800123c       0x14 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+                0x000000000800123c                _cleanup
+ .text.__sinit  0x0000000008001250        0xc /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+                0x0000000008001250                __sinit
+ .text.__sfp_lock_acquire
+                0x000000000800125c        0x4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+                0x000000000800125c                __sfp_lock_acquire
+ .text.__sfp_lock_release
+                0x0000000008001260        0x4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+                0x0000000008001260                __sfp_lock_release
+ .text.__sinit_lock_acquire
+                0x0000000008001264        0x4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+                0x0000000008001264                __sinit_lock_acquire
+ .text.__sinit_lock_release
+                0x0000000008001268        0x4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+                0x0000000008001268                __sinit_lock_release
+ .text.__fp_lock_all
+                0x000000000800126c       0x14 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+                0x000000000800126c                __fp_lock_all
+ .text.__fp_unlock_all
+                0x0000000008001280       0x14 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+                0x0000000008001280                __fp_unlock_all
+ .text.__sfvwrite_r
+                0x0000000008001294      0x318 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fvwrite.o)
+                0x0000000008001294                __sfvwrite_r
+ .text._fwalk   0x00000000080015ac       0x4c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fwalk.o)
+                0x00000000080015ac                _fwalk
+ .text._fwalk_reent
+                0x00000000080015f8       0x54 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fwalk.o)
+                0x00000000080015f8                _fwalk_reent
+ .text._malloc_r
+                0x000000000800164c      0x524 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mallocr.o)
+                0x000000000800164c                _malloc_r
+ .text.memchr   0x0000000008001b70       0x94 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memchr.o)
+                0x0000000008001b70                memchr
+ .text.memmove  0x0000000008001c04       0xc8 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memmove.o)
+                0x0000000008001c04                memmove
+ .text.__malloc_lock
+                0x0000000008001ccc        0x4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mlock.o)
+                0x0000000008001ccc                __malloc_lock
+ .text.__malloc_unlock
+                0x0000000008001cd0        0x4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mlock.o)
+                0x0000000008001cd0                __malloc_unlock
+ .text._realloc_r
+                0x0000000008001cd4      0x3ec /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reallocr.o)
+                0x0000000008001cd4                _realloc_r
+ .text._sbrk_r  0x00000000080020c0       0x24 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-sbrkr.o)
+                0x00000000080020c0                _sbrk_r
+ .text.__sread  0x00000000080020e4       0x24 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-stdio.o)
+                0x00000000080020e4                __sread
+ .text.__seofread
+                0x0000000008002108        0x4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-stdio.o)
+                0x0000000008002108                __seofread
+ .text.__swrite
+                0x000000000800210c       0x38 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-stdio.o)
+                0x000000000800210c                __swrite
+ .text.__sseek  0x0000000008002144       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-stdio.o)
+                0x0000000008002144                __sseek
+ .text.__sclose
+                0x0000000008002164        0x8 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-stdio.o)
+                0x0000000008002164                __sclose
+ .text._write_r
+                0x000000000800216c       0x28 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-writer.o)
+                0x000000000800216c                _write_r
+ .text.__swsetup_r
+                0x0000000008002194       0xc4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-wsetup.o)
+                0x0000000008002194                __swsetup_r
+ .text._close_r
+                0x0000000008002258       0x24 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-closer.o)
+                0x0000000008002258                _close_r
+ .text._fclose_r
+                0x000000000800227c       0x84 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fclose.o)
+                0x000000000800227c                _fclose_r
+ .text.fclose   0x0000000008002300       0x10 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fclose.o)
+                0x0000000008002300                fclose
+ .text.__sflush_r
+                0x0000000008002310      0x154 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fflush.o)
+                0x0000000008002310                __sflush_r
+ .text._fflush_r
+                0x0000000008002464       0x2c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fflush.o)
+                0x0000000008002464                _fflush_r
+ .text.fflush   0x0000000008002490       0x24 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fflush.o)
+                0x0000000008002490                fflush
+ .text._malloc_trim_r
+                0x00000000080024b4       0x9c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-freer.o)
+                0x00000000080024b4                _malloc_trim_r
+ .text._free_r  0x0000000008002550      0x1b0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-freer.o)
+                0x0000000008002550                _free_r
+ .text._lseek_r
+                0x0000000008002700       0x28 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-lseekr.o)
+                0x0000000008002700                _lseek_r
+ .text.__smakebuf_r
+                0x0000000008002728       0xe0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-makebuf.o)
+                0x0000000008002728                __smakebuf_r
+ .text._read_r  0x0000000008002808       0x28 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-readr.o)
+                0x0000000008002808                _read_r
+ .text.cleanup_glue
+                0x0000000008002830       0x1c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reent.o)
+                0x0000000008002830                cleanup_glue
+ .text._reclaim_reent
+                0x000000000800284c       0x88 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reent.o)
+                0x000000000800284c                _reclaim_reent
+ .text._fstat_r
+                0x00000000080028d4       0x28 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fstatr.o)
+                0x00000000080028d4                _fstat_r
+ .text._isatty_r
+                0x00000000080028fc       0x24 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-isattyr.o)
+                0x00000000080028fc                _isatty_r
+ *(.init)
+ .init          0x0000000008002920        0x4 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+                0x0000000008002920                _init
+ .init          0x0000000008002924        0x8 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+ *(.fini)
+ .fini          0x000000000800292c        0x4 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+                0x000000000800292c                _fini
+ .fini          0x0000000008002930        0x8 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+ *(.rodata)
+ .rodata        0x0000000008002938       0xc9 src/main.o
+                0x0000000008002938                const_v_1
+                0x000000000800293c                const_v_2
+                0x0000000008002940                const_V_3
+ *(.rodata.*)
+ *fill*         0x0000000008002a01        0x3 
+ .rodata.str1.4
+                0x0000000008002a04        0x2 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-impure.o)
+                                          0x4 (size before relaxing)
+ *fill*         0x0000000008002a06        0x2 
+ .rodata._global_impure_ptr
+                0x0000000008002a08        0x4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-impure.o)
+                0x0000000008002a08                _global_impure_ptr
+ .rodata.str1.4
+                0x0000000008002a0c        0x4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-puts.o)
+                0x0000000008002a10                . = ALIGN (0x4)
+                0x0000000008002a10                _etext = .
+                0x0000000008002a1c                _la_data = LOADADDR (.data)
+
+.glue_7         0x0000000008002a10        0x0
+ .glue_7        0x0000000008002a10        0x0 linker stubs
+
+.glue_7t        0x0000000008002a10        0x0
+ .glue_7t       0x0000000008002a10        0x0 linker stubs
+
+.vfp11_veneer   0x0000000008002a10        0x0
+ .vfp11_veneer  0x0000000008002a10        0x0 linker stubs
+
+.v4_bx          0x0000000008002a10        0x0
+ .v4_bx         0x0000000008002a10        0x0 linker stubs
+
+.iplt           0x0000000008002a10        0x0
+ .iplt          0x0000000008002a10        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+
+.eh_frame       0x0000000008002a10        0x4
+ .eh_frame      0x0000000008002a10        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ .eh_frame      0x0000000008002a10        0x4 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+
+.ARM.extab      0x0000000008002a14        0x0
+ .ARM.extab     0x0000000008002a14        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/crt0.o
+
+.ARM.exidx      0x0000000008002a14        0x8
+ .ARM.exidx     0x0000000008002a14        0x8 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/crt0.o
+
+.rel.dyn        0x0000000008002a1c        0x0
+ .rel.iplt      0x0000000008002a1c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+
+.data           0x0000000020000000      0x84c load address 0x0000000008002a1c
+                0x0000000020000000                _sdata = .
+ *(.data)
+ .data          0x0000000020000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+ .data          0x0000000020000000        0x4 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+                0x0000000020000000                __dso_handle
+ .data          0x0000000020000004        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .data          0x0000000020000004        0x1 src/main.o
+                0x0000000020000004                current_task
+ .data          0x0000000020000005        0x0 src/led.o
+ .data          0x0000000020000005        0x0 stm32_startup.o
+ *fill*         0x0000000020000005        0x3 
+ .data          0x0000000020000008        0x4 syscalls.o
+                0x0000000020000008                environ
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-atexit.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-errno.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-exit.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fini.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-impure.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-init.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memset.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-puts.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-strlen.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__atexit.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__call_atexit.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fvwrite.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fwalk.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mallocr.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memchr.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memcpy.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memmove.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mlock.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reallocr.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-sbrkr.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-stdio.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-writer.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-wsetup.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-closer.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fclose.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fflush.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-freer.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-lseekr.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-makebuf.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-readr.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reent.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fstatr.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-isattyr.o)
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .data          0x000000002000000c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+ *(.data.*)
+ *fill*         0x000000002000000c        0x4 
+ .data.impure_data
+                0x0000000020000010      0x428 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000020000438        0x4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-impure.o)
+                0x0000000020000438                _impure_ptr
+ .data.__malloc_av_
+                0x000000002000043c      0x408 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mallocr.o)
+                0x000000002000043c                __malloc_av_
+ .data.__malloc_trim_threshold
+                0x0000000020000844        0x4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mallocr.o)
+                0x0000000020000844                __malloc_trim_threshold
+ .data.__malloc_sbrk_base
+                0x0000000020000848        0x4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mallocr.o)
+                0x0000000020000848                __malloc_sbrk_base
+                0x000000002000084c                . = ALIGN (0x4)
+                0x000000002000084c                _edata = .
+
+.init_array     0x000000002000084c        0x4 load address 0x0000000008003268
+ .init_array    0x000000002000084c        0x4 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+
+.fini_array     0x0000000020000850        0x4 load address 0x000000000800326c
+ .fini_array    0x0000000020000850        0x4 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+
+.jcr            0x0000000020000854        0x4 load address 0x0000000008003270
+ .jcr           0x0000000020000854        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ .jcr           0x0000000020000854        0x4 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+
+.tm_clone_table
+                0x0000000020000858        0x0 load address 0x0000000008003274
+ .tm_clone_table
+                0x0000000020000858        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ .tm_clone_table
+                0x0000000020000858        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+
+.igot.plt       0x0000000020000858        0x0 load address 0x0000000008003274
+ .igot.plt      0x0000000020000858        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+
+.init_array.00000
+                0x0000000020000858        0x4 load address 0x0000000008003274
+ .init_array.00000
+                0x0000000020000858        0x4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__call_atexit.o)
+
+.bss            0x000000002000085c       0xb0 load address 0x0000000008003278
+                0x000000002000085c                _sbss = .
+                0x000000002000085c                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x000000002000085c        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+ .bss           0x000000002000085c       0x1c /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ .bss           0x0000000020000878        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .bss           0x0000000020000878        0x4 src/main.o
+                0x0000000020000878                g_tick_count
+ .bss           0x000000002000087c        0x0 src/led.o
+ .bss           0x000000002000087c        0x0 stm32_startup.o
+ .bss           0x000000002000087c        0x8 syscalls.o
+                0x000000002000087c                __env
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-atexit.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-errno.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-exit.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fini.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-impure.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-init.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memset.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-puts.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-strlen.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__atexit.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__call_atexit.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fvwrite.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fwalk.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mallocr.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memchr.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memcpy.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memmove.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mlock.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reallocr.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-sbrkr.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-stdio.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-writer.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-wsetup.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-closer.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fclose.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fflush.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-freer.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-lseekr.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-makebuf.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-readr.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reent.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fstatr.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-isattyr.o)
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .bss           0x0000000020000884        0x0 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+ *(.bss.*)
+ .bss.__malloc_max_total_mem
+                0x0000000020000884        0x4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mallocr.o)
+                0x0000000020000884                __malloc_max_total_mem
+ .bss.__malloc_max_sbrked_mem
+                0x0000000020000888        0x4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mallocr.o)
+                0x0000000020000888                __malloc_max_sbrked_mem
+ .bss.__malloc_top_pad
+                0x000000002000088c        0x4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mallocr.o)
+                0x000000002000088c                __malloc_top_pad
+ .bss.__malloc_current_mallinfo
+                0x0000000020000890       0x28 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mallocr.o)
+                0x0000000020000890                __malloc_current_mallinfo
+ *(COMMON)
+ COMMON         0x00000000200008b8       0x50 src/main.o
+                0x00000000200008b8                user_tasks
+ COMMON         0x0000000020000908        0x4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reent.o)
+                0x0000000020000908                errno
+                0x000000002000090c                . = ALIGN (0x4)
+                0x000000002000090c                _ebss = .
+                0x000000002000090c                __bss_end__ = _ebss
+                0x000000002000090c                . = ALIGN (0x4)
+                0x000000002000090c                end = .
+                0x000000002000090c                __end__ = .
+OUTPUT(final.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x2a
+ .ARM.attributes
+                0x0000000000000000       0x1e /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ .ARM.attributes
+                0x000000000000004c       0x1c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .ARM.attributes
+                0x0000000000000068       0x33 src/main.o
+ .ARM.attributes
+                0x000000000000009b       0x33 src/led.o
+ .ARM.attributes
+                0x00000000000000ce       0x33 stm32_startup.o
+ .ARM.attributes
+                0x0000000000000101       0x33 syscalls.o
+ .ARM.attributes
+                0x0000000000000134       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000000000000162       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000000000000190       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000000001be       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000000001ec       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000000000000021a       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000248       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000276       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-puts.o)
+ .ARM.attributes
+                0x00000000000002a4       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000000000002d2       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000000000000300       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000000000000032e       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x000000000000035c       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x000000000000038a       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x00000000000003b8       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000000000003e6       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x0000000000000414       0x1c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x0000000000000430       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x000000000000045e       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x000000000000048c       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x00000000000004ba       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000000004e8       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x0000000000000516       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-writer.o)
+ .ARM.attributes
+                0x0000000000000544       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x0000000000000572       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-closer.o)
+ .ARM.attributes
+                0x00000000000005a0       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fclose.o)
+ .ARM.attributes
+                0x00000000000005ce       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x00000000000005fc       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-freer.o)
+ .ARM.attributes
+                0x000000000000062a       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x0000000000000658       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x0000000000000686       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-readr.o)
+ .ARM.attributes
+                0x00000000000006b4       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000000000006e2       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x0000000000000710       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x000000000000073e       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .ARM.attributes
+                0x000000000000076c       0x1e /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+
+.comment        0x0000000000000000       0x70
+ .comment       0x0000000000000000       0x38 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+                                         0x39 (size before relaxing)
+ .comment       0x0000000000000038       0x39 src/main.o
+ .comment       0x0000000000000038       0x39 src/led.o
+ .comment       0x0000000000000038       0x39 stm32_startup.o
+ .comment       0x0000000000000038       0x39 syscalls.o
+ .comment       0x0000000000000038       0x38 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-atexit.o)
+                                         0x39 (size before relaxing)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-errno.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-exit.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fini.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-impure.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-init.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memset.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-puts.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-strlen.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__atexit.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__call_atexit.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fvwrite.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fwalk.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mallocr.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memchr.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memmove.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mlock.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reallocr.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-sbrkr.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-stdio.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-writer.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-wsetup.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-closer.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fclose.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fflush.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-freer.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-lseekr.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-makebuf.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-readr.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reent.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fstatr.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-isattyr.o)
+ .comment       0x0000000000000070       0x39 /usr/lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+
+.debug_line     0x0000000000000000     0x3a9d
+ .debug_line    0x0000000000000000       0x7b /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .debug_line    0x000000000000007b      0x1f6 src/main.o
+ .debug_line    0x0000000000000271       0xb1 src/led.o
+ .debug_line    0x0000000000000322       0xc7 stm32_startup.o
+ .debug_line    0x00000000000003e9       0xef syscalls.o
+ .debug_line    0x00000000000004d8       0xc1 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-atexit.o)
+ .debug_line    0x0000000000000599      0x10c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-errno.o)
+ .debug_line    0x00000000000006a5      0x175 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-exit.o)
+ .debug_line    0x000000000000081a       0x9c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fini.o)
+ .debug_line    0x00000000000008b6       0xf1 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-impure.o)
+ .debug_line    0x00000000000009a7       0xb5 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-init.o)
+ .debug_line    0x0000000000000a5c      0x119 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memset.o)
+ .debug_line    0x0000000000000b75      0x1b6 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-puts.o)
+ .debug_line    0x0000000000000d2b       0xf2 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-strlen.o)
+ .debug_line    0x0000000000000e1d      0x193 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__atexit.o)
+ .debug_line    0x0000000000000fb0      0x1c5 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__call_atexit.o)
+ .debug_line    0x0000000000001175      0x31c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+ .debug_line    0x0000000000001491      0x2e8 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fvwrite.o)
+ .debug_line    0x0000000000001779      0x1b7 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fwalk.o)
+ .debug_line    0x0000000000001930      0x38b /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mallocr.o)
+ .debug_line    0x0000000000001cbb      0x11d /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memchr.o)
+ .debug_line    0x0000000000001dd8       0xb8 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memcpy.o)
+ .debug_line    0x0000000000001e90      0x11f /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memmove.o)
+ .debug_line    0x0000000000001faf      0x10f /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mlock.o)
+ .debug_line    0x00000000000020be      0x29a /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reallocr.o)
+ .debug_line    0x0000000000002358      0x161 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-sbrkr.o)
+ .debug_line    0x00000000000024b9      0x1d3 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-stdio.o)
+ .debug_line    0x000000000000268c      0x163 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-writer.o)
+ .debug_line    0x00000000000027ef      0x1bd /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-wsetup.o)
+ .debug_line    0x00000000000029ac      0x162 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-closer.o)
+ .debug_line    0x0000000000002b0e      0x1b0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fclose.o)
+ .debug_line    0x0000000000002cbe      0x258 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fflush.o)
+ .debug_line    0x0000000000002f16      0x26e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-freer.o)
+ .debug_line    0x0000000000003184      0x163 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-lseekr.o)
+ .debug_line    0x00000000000032e7      0x1e0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-makebuf.o)
+ .debug_line    0x00000000000034c7      0x162 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-readr.o)
+ .debug_line    0x0000000000003629      0x19a /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reent.o)
+ .debug_line    0x00000000000037c3      0x177 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fstatr.o)
+ .debug_line    0x000000000000393a      0x163 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-isattyr.o)
+
+.debug_info     0x0000000000000000    0x11f20
+ .debug_info    0x0000000000000000       0xa9 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .debug_info    0x00000000000000a9      0x44c src/main.o
+ .debug_info    0x00000000000004f5      0x16a src/led.o
+ .debug_info    0x000000000000065f      0x17e stm32_startup.o
+ .debug_info    0x00000000000007dd      0x663 syscalls.o
+ .debug_info    0x0000000000000e40      0x10a /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-atexit.o)
+ .debug_info    0x0000000000000f4a      0x889 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-errno.o)
+ .debug_info    0x00000000000017d3      0x8e4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-exit.o)
+ .debug_info    0x00000000000020b7       0xef /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fini.o)
+ .debug_info    0x00000000000021a6      0x894 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-impure.o)
+ .debug_info    0x0000000000002a3a      0x105 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-init.o)
+ .debug_info    0x0000000000002b3f      0x117 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memset.o)
+ .debug_info    0x0000000000002c56      0xa4e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-puts.o)
+ .debug_info    0x00000000000036a4       0xb5 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-strlen.o)
+ .debug_info    0x0000000000003759      0x934 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__atexit.o)
+ .debug_info    0x000000000000408d      0x9a9 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__call_atexit.o)
+ .debug_info    0x0000000000004a36      0xdc0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+ .debug_info    0x00000000000057f6      0xc63 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fvwrite.o)
+ .debug_info    0x0000000000006459      0x99e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fwalk.o)
+ .debug_info    0x0000000000006df7      0xd8b /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mallocr.o)
+ .debug_info    0x0000000000007b82      0x129 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memchr.o)
+ .debug_info    0x0000000000007cab       0xce /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memcpy.o)
+ .debug_info    0x0000000000007d79      0x131 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memmove.o)
+ .debug_info    0x0000000000007eaa      0x8b4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mlock.o)
+ .debug_info    0x000000000000875e      0xcbc /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reallocr.o)
+ .debug_info    0x000000000000941a      0x8f4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-sbrkr.o)
+ .debug_info    0x0000000000009d0e      0xb8a /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-stdio.o)
+ .debug_info    0x000000000000a898      0x929 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-writer.o)
+ .debug_info    0x000000000000b1c1      0x93b /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-wsetup.o)
+ .debug_info    0x000000000000bafc      0x8e0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-closer.o)
+ .debug_info    0x000000000000c3dc      0xa28 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fclose.o)
+ .debug_info    0x000000000000ce04      0xab3 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fflush.o)
+ .debug_info    0x000000000000d8b7      0xc1c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-freer.o)
+ .debug_info    0x000000000000e4d3      0x90c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-lseekr.o)
+ .debug_info    0x000000000000eddf      0xae6 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-makebuf.o)
+ .debug_info    0x000000000000f8c5      0x922 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-readr.o)
+ .debug_info    0x00000000000101e7      0x9fb /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reent.o)
+ .debug_info    0x0000000000010be2      0xa5e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fstatr.o)
+ .debug_info    0x0000000000011640      0x8e0 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-isattyr.o)
+
+.debug_abbrev   0x0000000000000000     0x41e2
+ .debug_abbrev  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .debug_abbrev  0x0000000000000014      0x1d2 src/main.o
+ .debug_abbrev  0x00000000000001e6       0xc2 src/led.o
+ .debug_abbrev  0x00000000000002a8       0xd8 stm32_startup.o
+ .debug_abbrev  0x0000000000000380      0x171 syscalls.o
+ .debug_abbrev  0x00000000000004f1       0xb8 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-atexit.o)
+ .debug_abbrev  0x00000000000005a9      0x18f /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-errno.o)
+ .debug_abbrev  0x0000000000000738      0x1e6 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-exit.o)
+ .debug_abbrev  0x000000000000091e       0xbd /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fini.o)
+ .debug_abbrev  0x00000000000009db      0x180 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000000b5b       0xba /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-init.o)
+ .debug_abbrev  0x0000000000000c15       0x9f /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memset.o)
+ .debug_abbrev  0x0000000000000cb4      0x25e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-puts.o)
+ .debug_abbrev  0x0000000000000f12       0x70 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-strlen.o)
+ .debug_abbrev  0x0000000000000f82      0x20f /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__atexit.o)
+ .debug_abbrev  0x0000000000001191      0x285 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x0000000000001416      0x36d /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+ .debug_abbrev  0x0000000000001783      0x24a /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fvwrite.o)
+ .debug_abbrev  0x00000000000019cd      0x1c2 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fwalk.o)
+ .debug_abbrev  0x0000000000001b8f      0x2ad /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mallocr.o)
+ .debug_abbrev  0x0000000000001e3c       0xba /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memchr.o)
+ .debug_abbrev  0x0000000000001ef6       0x14 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memcpy.o)
+ .debug_abbrev  0x0000000000001f0a       0xab /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memmove.o)
+ .debug_abbrev  0x0000000000001fb5      0x19a /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mlock.o)
+ .debug_abbrev  0x000000000000214f      0x260 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reallocr.o)
+ .debug_abbrev  0x00000000000023af      0x1fd /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-sbrkr.o)
+ .debug_abbrev  0x00000000000025ac      0x246 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-stdio.o)
+ .debug_abbrev  0x00000000000027f2      0x1f4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-writer.o)
+ .debug_abbrev  0x00000000000029e6      0x20b /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-wsetup.o)
+ .debug_abbrev  0x0000000000002bf1      0x1ef /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-closer.o)
+ .debug_abbrev  0x0000000000002de0      0x2aa /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fclose.o)
+ .debug_abbrev  0x000000000000308a      0x2a1 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fflush.o)
+ .debug_abbrev  0x000000000000332b      0x27b /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-freer.o)
+ .debug_abbrev  0x00000000000035a6      0x1fe /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-lseekr.o)
+ .debug_abbrev  0x00000000000037a4      0x206 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-makebuf.o)
+ .debug_abbrev  0x00000000000039aa      0x1ef /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-readr.o)
+ .debug_abbrev  0x0000000000003b99      0x25c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reent.o)
+ .debug_abbrev  0x0000000000003df5      0x1fe /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fstatr.o)
+ .debug_abbrev  0x0000000000003ff3      0x1ef /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-isattyr.o)
+
+.debug_aranges  0x0000000000000000      0x5a8
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .debug_aranges
+                0x0000000000000020       0x20 src/main.o
+ .debug_aranges
+                0x0000000000000040       0x20 src/led.o
+ .debug_aranges
+                0x0000000000000060       0x20 stm32_startup.o
+ .debug_aranges
+                0x0000000000000080       0x20 syscalls.o
+ .debug_aranges
+                0x00000000000000a0       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-atexit.o)
+ .debug_aranges
+                0x00000000000000c0       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-errno.o)
+ .debug_aranges
+                0x00000000000000e0       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-exit.o)
+ .debug_aranges
+                0x0000000000000100       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fini.o)
+ .debug_aranges
+                0x0000000000000120       0x18 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-impure.o)
+ .debug_aranges
+                0x0000000000000138       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-init.o)
+ .debug_aranges
+                0x0000000000000158       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memset.o)
+ .debug_aranges
+                0x0000000000000178       0x28 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-puts.o)
+ .debug_aranges
+                0x00000000000001a0       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-strlen.o)
+ .debug_aranges
+                0x00000000000001c0       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x00000000000001e0       0x28 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x0000000000000208       0x88 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+ .debug_aranges
+                0x0000000000000290       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fvwrite.o)
+ .debug_aranges
+                0x00000000000002b0       0x28 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fwalk.o)
+ .debug_aranges
+                0x00000000000002d8       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mallocr.o)
+ .debug_aranges
+                0x00000000000002f8       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memchr.o)
+ .debug_aranges
+                0x0000000000000318       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x0000000000000338       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memmove.o)
+ .debug_aranges
+                0x0000000000000358       0x28 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mlock.o)
+ .debug_aranges
+                0x0000000000000380       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reallocr.o)
+ .debug_aranges
+                0x00000000000003a0       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-sbrkr.o)
+ .debug_aranges
+                0x00000000000003c0       0x40 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-stdio.o)
+ .debug_aranges
+                0x0000000000000400       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-writer.o)
+ .debug_aranges
+                0x0000000000000420       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-wsetup.o)
+ .debug_aranges
+                0x0000000000000440       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-closer.o)
+ .debug_aranges
+                0x0000000000000460       0x28 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fclose.o)
+ .debug_aranges
+                0x0000000000000488       0x30 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fflush.o)
+ .debug_aranges
+                0x00000000000004b8       0x28 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-freer.o)
+ .debug_aranges
+                0x00000000000004e0       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-lseekr.o)
+ .debug_aranges
+                0x0000000000000500       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-makebuf.o)
+ .debug_aranges
+                0x0000000000000520       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-readr.o)
+ .debug_aranges
+                0x0000000000000540       0x28 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reent.o)
+ .debug_aranges
+                0x0000000000000568       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fstatr.o)
+ .debug_aranges
+                0x0000000000000588       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-isattyr.o)
+
+.debug_str      0x0000000000000000     0x192a
+ .debug_str     0x0000000000000000      0x34a src/main.o
+                                        0x3af (size before relaxing)
+ .debug_str     0x000000000000034a       0x55 src/led.o
+                                        0x1a3 (size before relaxing)
+ .debug_str     0x000000000000039f       0x63 stm32_startup.o
+                                        0x1b3 (size before relaxing)
+ .debug_str     0x0000000000000402      0x1f2 syscalls.o
+                                        0x359 (size before relaxing)
+ .debug_str     0x00000000000005f4      0x162 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-atexit.o)
+                                        0x1fb (size before relaxing)
+ .debug_str     0x0000000000000756      0x3eb /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-errno.o)
+                                        0x577 (size before relaxing)
+ .debug_str     0x0000000000000b41       0x55 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-exit.o)
+                                        0x598 (size before relaxing)
+ .debug_str     0x0000000000000b96       0xc4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fini.o)
+                                        0x1f3 (size before relaxing)
+ .debug_str     0x0000000000000c5a       0x9e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-impure.o)
+                                        0x58f (size before relaxing)
+ .debug_str     0x0000000000000cf8       0x90 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-init.o)
+                                        0x21d (size before relaxing)
+ .debug_str     0x0000000000000d88       0xaf /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memset.o)
+                                        0x1d2 (size before relaxing)
+ .debug_str     0x0000000000000e37      0x105 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-puts.o)
+                                        0x5f6 (size before relaxing)
+ .debug_str     0x0000000000000f3c       0xa1 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-strlen.o)
+                                        0x1cb (size before relaxing)
+ .debug_str     0x0000000000000fdd       0x30 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__atexit.o)
+                                        0x5d7 (size before relaxing)
+ .debug_str     0x000000000000100d       0x70 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__call_atexit.o)
+                                        0x5ef (size before relaxing)
+ .debug_str     0x000000000000107d      0x127 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+                                        0x6b6 (size before relaxing)
+ .debug_str     0x00000000000011a4       0x8b /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fvwrite.o)
+                                        0x621 (size before relaxing)
+ .debug_str     0x000000000000122f       0x3b /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fwalk.o)
+                                        0x594 (size before relaxing)
+ .debug_str     0x000000000000126a      0x227 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mallocr.o)
+                                        0x79e (size before relaxing)
+ .debug_str     0x0000000000001491       0x48 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memchr.o)
+                                        0x1d8 (size before relaxing)
+ .debug_str     0x00000000000014d9       0x50 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memmove.o)
+                                        0x1f1 (size before relaxing)
+ .debug_str     0x0000000000001529       0x42 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mlock.o)
+                                        0x598 (size before relaxing)
+ .debug_str     0x000000000000156b       0x4e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reallocr.o)
+                                        0x670 (size before relaxing)
+ .debug_str     0x00000000000015b9       0x2c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-sbrkr.o)
+                                        0x586 (size before relaxing)
+ .debug_str     0x00000000000015e5       0x8c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-stdio.o)
+                                        0x5ea (size before relaxing)
+ .debug_str     0x0000000000001671       0x2d /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-writer.o)
+                                        0x583 (size before relaxing)
+ .debug_str     0x000000000000169e       0x3a /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-wsetup.o)
+                                        0x5ae (size before relaxing)
+ .debug_str     0x00000000000016d8       0x2d /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-closer.o)
+                                        0x573 (size before relaxing)
+ .debug_str     0x0000000000001705       0x4e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fclose.o)
+                                        0x5dc (size before relaxing)
+ .debug_str     0x0000000000001753       0x45 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fflush.o)
+                                        0x5ef (size before relaxing)
+ .debug_str     0x0000000000001798       0x34 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-freer.o)
+                                        0x6e8 (size before relaxing)
+ .debug_str     0x00000000000017cc       0x2d /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-lseekr.o)
+                                        0x581 (size before relaxing)
+ .debug_str     0x00000000000017f9       0x4c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-makebuf.o)
+                                        0x691 (size before relaxing)
+ .debug_str     0x0000000000001845       0x2c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-readr.o)
+                                        0x581 (size before relaxing)
+ .debug_str     0x0000000000001871       0x58 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reent.o)
+                                        0x5ae (size before relaxing)
+ .debug_str     0x00000000000018c9       0x33 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fstatr.o)
+                                        0x666 (size before relaxing)
+ .debug_str     0x00000000000018fc       0x2e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-isattyr.o)
+                                        0x57d (size before relaxing)
+
+.debug_frame    0x0000000000000000      0xf6c
+ .debug_frame   0x0000000000000000      0x2d8 src/main.o
+ .debug_frame   0x00000000000002d8       0xac src/led.o
+ .debug_frame   0x0000000000000384       0x4c stm32_startup.o
+ .debug_frame   0x00000000000003d0      0x2d4 syscalls.o
+ .debug_frame   0x00000000000006a4       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-atexit.o)
+ .debug_frame   0x00000000000006c4       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-errno.o)
+ .debug_frame   0x00000000000006e4       0x28 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-exit.o)
+ .debug_frame   0x000000000000070c       0x34 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fini.o)
+ .debug_frame   0x0000000000000740       0x2c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-init.o)
+ .debug_frame   0x000000000000076c       0x34 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memset.o)
+ .debug_frame   0x00000000000007a0       0x48 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-puts.o)
+ .debug_frame   0x00000000000007e8       0x20 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-strlen.o)
+ .debug_frame   0x0000000000000808       0x34 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__atexit.o)
+ .debug_frame   0x000000000000083c       0x50 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x000000000000088c      0x124 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+ .debug_frame   0x00000000000009b0       0x68 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fvwrite.o)
+ .debug_frame   0x0000000000000a18       0x54 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fwalk.o)
+ .debug_frame   0x0000000000000a6c       0x58 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mallocr.o)
+ .debug_frame   0x0000000000000ac4       0x3c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memchr.o)
+ .debug_frame   0x0000000000000b00       0x30 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memmove.o)
+ .debug_frame   0x0000000000000b30       0x30 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000000b60       0x60 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reallocr.o)
+ .debug_frame   0x0000000000000bc0       0x2c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000000bec       0x88 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-stdio.o)
+ .debug_frame   0x0000000000000c74       0x2c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-writer.o)
+ .debug_frame   0x0000000000000ca0       0x2c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-wsetup.o)
+ .debug_frame   0x0000000000000ccc       0x2c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-closer.o)
+ .debug_frame   0x0000000000000cf8       0x44 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fclose.o)
+ .debug_frame   0x0000000000000d3c       0x6c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fflush.o)
+ .debug_frame   0x0000000000000da8       0x74 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-freer.o)
+ .debug_frame   0x0000000000000e1c       0x2c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-lseekr.o)
+ .debug_frame   0x0000000000000e48       0x48 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-makebuf.o)
+ .debug_frame   0x0000000000000e90       0x2c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-readr.o)
+ .debug_frame   0x0000000000000ebc       0x58 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reent.o)
+ .debug_frame   0x0000000000000f14       0x2c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fstatr.o)
+ .debug_frame   0x0000000000000f40       0x2c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-isattyr.o)
+
+.debug_loc      0x0000000000000000     0x470b
+ .debug_loc     0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-atexit.o)
+ .debug_loc     0x000000000000002c       0x1e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-exit.o)
+ .debug_loc     0x000000000000004a       0x5c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fini.o)
+ .debug_loc     0x00000000000000a6       0xae /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-init.o)
+ .debug_loc     0x0000000000000154      0x1ae /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memset.o)
+ .debug_loc     0x0000000000000302       0xd2 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-puts.o)
+ .debug_loc     0x00000000000003d4       0x21 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-strlen.o)
+ .debug_loc     0x00000000000003f5      0x197 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__atexit.o)
+ .debug_loc     0x000000000000058c      0x146 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__call_atexit.o)
+ .debug_loc     0x00000000000006d2      0x22e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+ .debug_loc     0x0000000000000900      0x674 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fvwrite.o)
+ .debug_loc     0x0000000000000f74      0x207 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fwalk.o)
+ .debug_loc     0x000000000000117b      0xdc4 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mallocr.o)
+ .debug_loc     0x0000000000001f3f      0x180 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memchr.o)
+ .debug_loc     0x00000000000020bf      0x2d7 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memmove.o)
+ .debug_loc     0x0000000000002396     0x1218 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reallocr.o)
+ .debug_loc     0x00000000000035ae       0x4d /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-sbrkr.o)
+ .debug_loc     0x00000000000035fb      0x29e /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-stdio.o)
+ .debug_loc     0x0000000000003899       0xa5 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-writer.o)
+ .debug_loc     0x000000000000393e       0xa2 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-wsetup.o)
+ .debug_loc     0x00000000000039e0       0x4d /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-closer.o)
+ .debug_loc     0x0000000000003a2d      0x151 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fclose.o)
+ .debug_loc     0x0000000000003b7e      0x257 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fflush.o)
+ .debug_loc     0x0000000000003dd5      0x4fd /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-freer.o)
+ .debug_loc     0x00000000000042d2       0xa5 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-lseekr.o)
+ .debug_loc     0x0000000000004377      0x10c /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-makebuf.o)
+ .debug_loc     0x0000000000004483       0xa5 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-readr.o)
+ .debug_loc     0x0000000000004528      0x11d /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reent.o)
+ .debug_loc     0x0000000000004645       0x79 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fstatr.o)
+ .debug_loc     0x00000000000046be       0x4d /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-isattyr.o)
+
+.debug_ranges   0x0000000000000000      0x5f8
+ .debug_ranges  0x0000000000000000       0x10 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-atexit.o)
+ .debug_ranges  0x0000000000000010       0x10 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-errno.o)
+ .debug_ranges  0x0000000000000020       0x10 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-exit.o)
+ .debug_ranges  0x0000000000000030       0x10 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fini.o)
+ .debug_ranges  0x0000000000000040       0x10 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-init.o)
+ .debug_ranges  0x0000000000000050       0x10 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memset.o)
+ .debug_ranges  0x0000000000000060       0x38 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-puts.o)
+ .debug_ranges  0x0000000000000098       0x10 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-strlen.o)
+ .debug_ranges  0x00000000000000a8       0x10 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__atexit.o)
+ .debug_ranges  0x00000000000000b8       0x30 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-__call_atexit.o)
+ .debug_ranges  0x00000000000000e8       0xe8 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-findfp.o)
+ .debug_ranges  0x00000000000001d0       0x30 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fvwrite.o)
+ .debug_ranges  0x0000000000000200       0x18 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fwalk.o)
+ .debug_ranges  0x0000000000000218       0x50 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mallocr.o)
+ .debug_ranges  0x0000000000000268       0x10 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memchr.o)
+ .debug_ranges  0x0000000000000278       0x10 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-memmove.o)
+ .debug_ranges  0x0000000000000288       0x18 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-mlock.o)
+ .debug_ranges  0x00000000000002a0      0x180 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reallocr.o)
+ .debug_ranges  0x0000000000000420       0x10 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-sbrkr.o)
+ .debug_ranges  0x0000000000000430       0x30 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-stdio.o)
+ .debug_ranges  0x0000000000000460       0x10 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-writer.o)
+ .debug_ranges  0x0000000000000470       0x30 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-wsetup.o)
+ .debug_ranges  0x00000000000004a0       0x10 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-closer.o)
+ .debug_ranges  0x00000000000004b0       0x48 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fclose.o)
+ .debug_ranges  0x00000000000004f8       0x80 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fflush.o)
+ .debug_ranges  0x0000000000000578       0x18 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-freer.o)
+ .debug_ranges  0x0000000000000590       0x10 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-lseekr.o)
+ .debug_ranges  0x00000000000005a0       0x10 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-makebuf.o)
+ .debug_ranges  0x00000000000005b0       0x10 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-readr.o)
+ .debug_ranges  0x00000000000005c0       0x18 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-reent.o)
+ .debug_ranges  0x00000000000005d8       0x10 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-fstatr.o)
+ .debug_ranges  0x00000000000005e8       0x10 /usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/lib/armv7e-m/libg.a(lib_a-isattyr.o)

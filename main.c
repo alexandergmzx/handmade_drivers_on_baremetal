@@ -5,7 +5,6 @@
  *      Author: Alexander Gomez
  */
 #include "./inc/stm32f413xx.h"
-#include"main.h"
 
 int main(void) {
 	GPIO_Handle_t led0;

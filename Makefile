@@ -21,10 +21,9 @@
 #
 ##############################################################################
 SRCDIR	= src
-SRCS	= $(wildcard $(SRCDIR)/*.c)
+SRCS	= $(wildcard $(SRCDIR)/*.c) $(wildcard ./*.c) 
 
-SRCS +=	$(wildcard ./*.c) 
-
+ASRC = $(wildcard ./*.s)
 INCLDIR = inc
 INCLUDES = $(wildcard $(INCLDIR)/*.h)
 
@@ -45,7 +44,7 @@ CFLAGS = -Wall \
 	-O0 \
 	-std=gnu11
 
-CPPFLAGS = -MMD -MP -I $(INCLUDES)
+CPPFLAGS = -MMD -MP -include $(INCLUDES)
 
 # Programmer flags
 PROGRAMMER = openocd
@@ -67,13 +66,14 @@ CFLAGS += $(ISAFLAG) \
 	-mfloat-abi=$(FLOATABI) # Compiler Flags 
 
 #Linker & Loader Flags
-LINKER_FILE = stm32_ls.ld
+LINKER_FILE = STM32F413ZHTX_FLASH.ld
+#STM32F413ZHTX_FLASH.ld
+#stm32_ls.ld
 
 # This also generates the Map file for the full build
 
-LDFLAGS = --specs=$(SPECS) -T$(LINKER_FILE) -Wl,-Map=$(PRJ_NAME).map
-
-LDFLAGS_SH = --specs=rdimon.specs -T$(LINKER_FILE) -Wl,-Map=$(PRJ_NAME).map
+LDFLAGS =  -T$(LINKER_FILE) -ffunction-sections -fdata-sections  --specs=nano.specs
+LDFLAGS += -Wl,--gc-sections -Wl,-Map=$(PRJ_NAME).map -lc -lm --specs=nosys.specs
 
 .PHONY: all clean flash burn hex bin
 
@@ -82,31 +82,33 @@ semi: $(PRJ_NAME)_sh.elf
 #semi stands for Semi Hosting debugger
 
 # Pattern Matching - Associate source files with:
-OBJS = $(SRCS:.c=.o)	# Object files
+OBJS = $(SRCS:.c=.o) $(ASRC:.s=.o) # Object files
 DEPS = $(SRCS:.c=.d)	# Dependency files
 ASMS = $(SRCS:.c=.asm)	# Assembly files
 PREP = $(SRCS:.c=.i)	# Preprocessed files
 
 # Dependency Files for each source file 
-%.d: %.c
+%.d: %.c 
 	$(CC) -E -M $< $(CPPFLAGS) -o $@
 # Preprocessed output of implementation files
-%.i: %.c
+%.i: %.c 
 	$(CC) -E $< $(CPPFLAGS) -o $@
 # Assembly output files
-%.asm: %.c
+%.asm: %.c 
 	$(CC) -S $< $(CFLAGS) $(CPPFLAGS) -o $@
 # Individual object files
-%.o: %.c
-	$(CC) -c $< $(CFLAGS) -o $@
+%.o: %.c 
+	$(CC) -c $(CFLAGS) $< -o $@
+	@echo "Object built: $@ \n"
+%.o: %.s
+	$(CC) -c $(CFLAGS) $< -o $@
+	@echo "Object built: $@ \n"
 
 $(PRJ_NAME).elf: $(OBJS)
 	$(CC) $^ $(CFLAGS) $(CPPFLAGS) $(LDFLAGS) -o $@ 
-	$(SIZE) $< $@
+	$(SIZE) $^ $@
+	@echo "Finished building $(PRJ_NAME) project: $@ \n"
 # instead of $(OBJS), uses $^	
-$(PRJ_NAME)_sh.elf: main.o led.o stm32_startup.o
-	$(CC) $(CFLAGS) $(CPPFLAGS) $(LDFLAGS_SH) -o $@ $^ 
-	$(SIZE) $< $@
 
 $(PRJ_NAME).asm: $(PRJ_NAME).elf
 	$(OBJDMP) --disassemble-all $(PRJ_NAME).elf > $(PRJ_NAME).asm

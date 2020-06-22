@@ -22,7 +22,7 @@ SECTIONS
 	_etext = .;
   }> FLASH
   
-  _la_data = LOADADDR(.data);
+  _sidata = LOADADDR(.data);
   
   .data :
   {

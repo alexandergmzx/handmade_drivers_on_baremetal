@@ -60,7 +60,7 @@ FPU = fpv4-sp-d16
 CFLAGS += -mcpu=$(CPU) -march=$(ARCH) -m$(ISA) -m$(ENDIANESS) -mfloat-abi=$(FLOATABI) -mfpu=$(FPU)
 
 #Linker & Loader Flags
-LINKER_FILE = STM32F413ZHTX_FLASH.ld
+LINKER_FILE = STM32F413ZHTX.ld
 #STM32F413ZHTX_FLASH.ld
 #stm32_ls.ld
 

@@ -68,11 +68,10 @@ LINKER_FILE = STM32F413ZHTX_FLASH.ld
 LDFLAGS =  -T$(LINKER_FILE) -ffunction-sections -fdata-sections  --specs=nano.specs -Wl,--no-wchar-size-warning
 LDFLAGS += -Wl,--gc-sections -Wl,-Map=$(PRJ_NAME).map -lc -lm --specs=nosys.specs
 
-.PHONY: all clean flash hex bin fully
+.PHONY: all clean flash
 
 all: $(PRJ_NAME).elf
 semi: $(PRJ_NAME)_sh.elf 
-fully: all hex bin
 #semi stands for Semi Hosting debugger
 
 # Pattern Matching - Associate source files with:
@@ -113,5 +112,5 @@ flash: $(PRJ_NAME).elf
 	$(PROGRAMMER) $(PGFLAGS) 
 
 clean:
-	rm -f $(OBJS) $(DEPS) $(ASMS) $(PREP) $(PRJ_NAME).elf $(PRJ_NAME)_sh.elf $(PRJ_NAME).d $(PRJ_NAME).map $(PRJ_NAME).asm $(PRJ_NAME).bin $(PRJ_NAME).hex
+	rm -f $(OBJS) $(DEPS) $(ASMS) $(PREP) $(PRJ_NAME).elf $(PRJ_NAME)_sh.elf $(PRJ_NAME).d $(PRJ_NAME).map $(PRJ_NAME).asm $(PRJ_NAME).bin $(PRJ_NAME).hex $(PRJ_NAME).lst
 

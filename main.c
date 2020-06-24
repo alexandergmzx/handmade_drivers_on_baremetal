@@ -35,11 +35,11 @@ int main(void) {
 
 	while(TRUE){
 		GPIO_togglepin(GPIOB, 0);
-		delay(100);
+		delay(10);
 		GPIO_togglepin(GPIOB, 7);
-		delay(200);
+		delay(20);
 		GPIO_togglepin(GPIOB, 14);
-		delay(300);
+		delay(30);
 	}
 
 	return 0;
